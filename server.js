@@ -4,6 +4,8 @@ const axios = require('axios');
 const cors = require('cors');
 const app = express();
 
+const PORT = process.env.PORT || 3000
+
 const LIMIT_OF_RECORDS = 4;
 
 app.use(express.json())
@@ -48,7 +50,7 @@ app.get('/items/:id', async function (req, res) {
   res.send(result);
 });
 
-app.listen(3000, function () {
+app.listen(PORT, function () {
   console.log('Example app listening on port 3000!');
 });
 
