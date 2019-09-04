@@ -1,13 +1,13 @@
-function getAuthor(){
+function getAuthor() {
   return {
     name: 'Leonardo',
     lastname: 'Almeida'
   }
 }
 
-function parsePrice(product){
+function parsePrice(product) {
   return {
-    currency: product.currency_id, 
+    currency: product.currency_id,
     amount: Math.floor(product.price),
     decimals: parseFloat((product.price % 1).toFixed(2))
   }
@@ -16,12 +16,13 @@ function parsePrice(product){
 function parseCategories(data) {
   const filter = data.find((item) => item.id === 'category')
 
-  if(filter) {
-    return filter.values[0]
-    .path_from_root
-    .map((item) => item.name)
+  if (filter) {
+    return filter
+      .values[0]
+      .path_from_root
+      .map((item) => item.name)
   }
-  
+
   return []
 }
 

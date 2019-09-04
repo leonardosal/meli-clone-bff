@@ -1,12 +1,13 @@
 
 const axios = require('axios');
 
-const api = axios.create({
-  baseURL: 'https://api.mercadolibre.com'
+const API = axios.create({
+  baseURL: 'https://api.mercadolibre.com',
+  timeout: 5000
 })
 
 module.exports = {
-  limit_of_records: 4,
-  api,
-  port: process.env.PORT || 3000
+  LIMIT_OF_RECORDS: 4,
+  PORT: process.env.PORT || 3000,
+  API
 }
