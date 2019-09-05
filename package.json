@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js --ignore __test__",
-    "test": "jest"
+    "test": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "author": "Leonardo Almeida",
   "license": "ISC",
@@ -17,6 +17,7 @@
     "swagger-ui-express": "^4.0.7"
   },
   "devDependencies": {
+    "coveralls": "^3.0.6",
     "jest": "^24.9.0",
     "nodemon": "^1.19.2"
   }
