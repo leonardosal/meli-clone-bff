@@ -3,22 +3,13 @@
   "info": {
     "version": "1.0.0",
     "title": "MELI API",
-    "description": "MELI API",
-    "license": {
-      "name": "MIT",
-      "url": "https://opensource.org/licenses/MIT"
-    }
+    "description": ""
   },
-  "host": "localhost:3000",
-  "basePath": "/api/v1",
   "tags": [
     {
       "name": "Items",
-      "description": "API for items in the system"
+      "description": "API for products of MELI"
     }
-  ],
-  "schemes": [
-    "http"
   ],
   "consumes": [
     "application/json"
@@ -28,11 +19,19 @@
   ],
   "paths": {
     "/items": {
+      "parameters": [
+        {
+          "name": "q",
+          "in": "query",
+          "description": "",
+          "type": "string"
+        }
+      ],
       "get": {
+        "summary": "Get items by query",
         "tags": [
           "Items"
         ],
-        "summary": "Get all items in system",
         "responses": {
           "200": {
             "description": "OK",
@@ -46,61 +45,23 @@
     "/items/{id}": {
       "parameters": [
         {
-          "name": "userId",
+          "name": "id",
           "in": "path",
           "required": true,
-          "description": "ID of user that we want to find",
+          "description": "",
           "type": "string"
         }
       ],
       "get": {
+        "summary": "Get item by ID",
         "tags": [
-          "Users"
-        ],
-        "summary": "Get user with given ID",
-        "responses": {
-          "200": {
-            "description": "User is found",
-            "schema": {
-              "$ref": "#/definitions/User"
-            }
-          }
-        }
-      },
-      "delete": {
-        "summary": "Delete user with given ID",
-        "tags": [
-          "Users"
+          "Items"
         ],
         "responses": {
           "200": {
-            "description": "User is deleted",
+            "description": "Item is found",
             "schema": {
-              "$ref": "#/definitions/User"
-            }
-          }
-        }
-      },
-      "put": {
-        "summary": "Update user with give ID",
-        "tags": [
-          "Users"
-        ],
-        "parameters": [
-          {
-            "name": "user",
-            "in": "body",
-            "description": "User with new values of properties",
-            "schema": {
-              "$ref": "#/definitions/User"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "User is updated",
-            "schema": {
-              "$ref": "#/definitions/User"
+              "$ref": "#/definitions/Item"
             }
           }
         }
@@ -108,31 +69,115 @@
     }
   },
   "definitions": {
-    "User": {
-      "required": [
-        "email",
-        "_id"
-      ],
+    "Items": {
       "properties": {
-        "_id": {
-          "type": "string",
-          "uniqueItems": true
+        "author": {
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "lastname": {
+              "type": "string"
+            }
+          }
         },
-        "email": {
-          "type": "string",
-          "uniqueItems": true
+        "categories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
         },
-        "lastName": {
-          "type": "string"
-        },
-        "firstName": {
-          "type": "string"
+        "items": {
+          "type": "array",
+          "items": {
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "title": {
+                "type": "string"
+              },
+              "price": {
+                "properties": {
+                  "currency": {
+                    "type": "string"
+                  },
+                  "amount": {
+                    "type": "number",
+                    "format": "int32"
+                  },
+                  "decimals": {
+                    "type": "number",
+                    "format": "double"
+                  }
+                }
+              },
+              "condition": {
+                "type": "string"
+              },
+              "picture": {
+                "type": "string"
+              },
+              "free_shipping": {
+                "type": "boolean"
+              }
+            }
+          }
         }
       }
     },
-    "Users": {
-      "type": "array",
-      "$ref": "#/definitions/User"
+    "Item": {
+      "type": "object",
+      "properties": {
+        "author": {
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "lastname": {
+              "type": "string"
+            }
+          }
+        },
+        "id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "price": {
+          "type": "object",
+          "properties": {
+            "currency": {
+              "type": "string"
+            },
+            "amount": {
+              "type": "number",
+              "format": "int32"
+            },
+            "decimals": {
+              "type": "number",
+              "format": "double"
+            }
+          }
+        },
+        "condition": {
+          "type": "string"
+        },
+        "picture": {
+          "type": "string"
+        },
+        "free_shipping": {
+          "type": "boolean"
+        },
+        "sold_quantity": {
+          "type": "number",
+          "format": "int32"
+        },
+        "description": {
+          "type": "string"
+        }
+      }
     }
   }
 }
