@@ -21,7 +21,9 @@ app.use('/', swaggerUi.serve);
 
 app.get('/', swaggerUi.setup(swaggerDocument));
 
-app.listen(PORT, () => {
-  console.log('app listening on port 3000!');
-});
+if (process.env.NODE_ENV !== 'test') {
+  app.listen(PORT);
+}
+
+module.exports = app
 

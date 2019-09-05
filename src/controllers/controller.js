@@ -20,7 +20,14 @@ async function findItemById (req, res) {
     const result = parseResultItemDetail(data);
     res.send(result);
   } catch (err) {
-    console.log(err.message)
+    
+    if(err && err.response && err.response.status === 404) {
+      res.status(404).send({ 
+        message: 'Item não encontrado.' 
+      })
+      return
+    }
+
     res.status(500).send({ 
       message: 'Erro ao executar a operação.' 
     })
