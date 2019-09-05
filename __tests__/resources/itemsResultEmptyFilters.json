@@ -1,0 +1,780 @@
+{
+  "site_id": "MLA",
+  "query": "macbook",
+  "paging": {
+      "total": 3434,
+      "offset": 0,
+      "limit": 2,
+      "primary_results": 1000
+  },
+  "results": [
+      {
+          "id": "MLA729695037",
+          "site_id": "MLA",
+          "title": "Computadora Macbook Air 13 - Usada Como Nueva - Core I7 256gb 8gb Mod 2014  Ifans",
+          "seller": {
+              "id": 12900268,
+              "power_seller_status": "gold",
+              "car_dealer": false,
+              "real_estate_agency": false,
+              "tags": []
+          },
+          "price": 54999.99,
+          "currency_id": "ARS",
+          "available_quantity": 1,
+          "sold_quantity": 5,
+          "buying_mode": "buy_it_now",
+          "listing_type_id": "gold_special",
+          "stop_time": "2038-06-01T04:00:00.000Z",
+          "condition": "new",
+          "permalink": "https://articulo.mercadolibre.com.ar/MLA-729695037-computadora-macbook-air-13-usada-como-nueva-core-i7-256gb-8gb-mod-2014-ifans-_JM",
+          "thumbnail": "http://mla-s2-p.mlstatic.com/933268-MLA31593846925_072019-I.jpg",
+          "accepts_mercadopago": true,
+          "installments": {
+              "quantity": 12,
+              "amount": 7506.12,
+              "rate": 63.77,
+              "currency_id": "ARS"
+          },
+          "address": {
+              "state_id": "AR-C",
+              "state_name": "Capital Federal",
+              "city_id": null,
+              "city_name": "CABA"
+          },
+          "shipping": {
+              "free_shipping": true,
+              "mode": "me2",
+              "tags": [
+                  "self_service_in",
+                  "mandatory_free_shipping"
+              ],
+              "logistic_type": "drop_off",
+              "store_pick_up": false
+          },
+          "seller_address": {
+              "id": "",
+              "comment": "",
+              "address_line": "",
+              "zip_code": "",
+              "country": {
+                  "id": "AR",
+                  "name": "Argentina"
+              },
+              "state": {
+                  "id": "AR-C",
+                  "name": "Capital Federal"
+              },
+              "city": {
+                  "id": null,
+                  "name": "CABA"
+              },
+              "latitude": "",
+              "longitude": ""
+          },
+          "attributes": [
+              {
+                  "value_name": null,
+                  "value_struct": null,
+                  "attribute_group_id": "OTHERS",
+                  "attribute_group_name": "Otros",
+                  "source": 3376461333454861,
+                  "id": "ALPHANUMERIC_MODEL",
+                  "name": "Modelo alfanumérico",
+                  "value_id": "-1"
+              },
+              {
+                  "attribute_group_name": "Otros",
+                  "source": 1,
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple",
+                  "value_struct": null,
+                  "attribute_group_id": "OTHERS"
+              },
+              {
+                  "value_name": "Nuevo",
+                  "value_struct": null,
+                  "attribute_group_id": "OTHERS",
+                  "attribute_group_name": "Otros",
+                  "source": 510278957040621,
+                  "id": "ITEM_CONDITION",
+                  "name": "Condición del ítem",
+                  "value_id": "2230284"
+              },
+              {
+                  "name": "Línea",
+                  "value_id": "95565",
+                  "value_name": "MacBook Air",
+                  "value_struct": null,
+                  "attribute_group_id": "OTHERS",
+                  "attribute_group_name": "Otros",
+                  "source": 3376461333454861,
+                  "id": "LINE"
+              },
+              {
+                  "value_id": null,
+                  "value_name": "MacBook Air",
+                  "value_struct": null,
+                  "attribute_group_id": "OTHERS",
+                  "attribute_group_name": "Otros",
+                  "source": 3376461333454861,
+                  "id": "MODEL",
+                  "name": "Modelo"
+              }
+          ],
+          "original_price": null,
+          "category_id": "MLA9951",
+          "official_store_id": null,
+          "catalog_product_id": null,
+          "tags": [
+              "good_quality_thumbnail",
+              "brand_verified",
+              "extended_warranty_eligible",
+              "good_quality_picture",
+              "immediate_payment",
+              "cart_eligible"
+          ]
+      },
+      {
+          "id": "MLA694875976",
+          "site_id": "MLA",
+          "title": "Apple Macbook Air I5 8gb 128 Ssd 13.3 Hd Sellada Factura A B",
+          "seller": {
+              "id": 193659561,
+              "power_seller_status": "platinum",
+              "car_dealer": false,
+              "real_estate_agency": false,
+              "tags": []
+          },
+          "price": 87214.64,
+          "currency_id": "ARS",
+          "available_quantity": 1,
+          "sold_quantity": 50,
+          "buying_mode": "buy_it_now",
+          "listing_type_id": "gold_special",
+          "stop_time": "2037-11-26T05:32:43.000Z",
+          "condition": "new",
+          "permalink": "https://articulo.mercadolibre.com.ar/MLA-694875976-apple-macbook-air-i5-8gb-128-ssd-133-hd-sellada-factura-a-b-_JM",
+          "thumbnail": "http://mla-s1-p.mlstatic.com/946352-MLA31351830454_072019-I.jpg",
+          "accepts_mercadopago": true,
+          "installments": {
+              "quantity": 12,
+              "amount": 11902.62,
+              "rate": 63.77,
+              "currency_id": "ARS"
+          },
+          "address": {
+              "state_id": "AR-C",
+              "state_name": "Capital Federal",
+              "city_id": null,
+              "city_name": "DEVOTO"
+          },
+          "shipping": {
+              "free_shipping": true,
+              "mode": "me2",
+              "tags": [
+                  "mandatory_free_shipping"
+              ],
+              "logistic_type": "cross_docking",
+              "store_pick_up": false
+          },
+          "seller_address": {
+              "id": "",
+              "comment": "",
+              "address_line": "",
+              "zip_code": "",
+              "country": {
+                  "id": "AR",
+                  "name": "Argentina"
+              },
+              "state": {
+                  "id": "AR-C",
+                  "name": "Capital Federal"
+              },
+              "city": {
+                  "id": null,
+                  "name": "DEVOTO"
+              },
+              "latitude": "",
+              "longitude": ""
+          },
+          "attributes": [
+              {
+                  "attribute_group_name": "Otros",
+                  "source": 1,
+                  "id": "BRAND",
+                  "name": "Marca",
+                  "value_id": "9344",
+                  "value_name": "Apple",
+                  "value_struct": null,
+                  "attribute_group_id": "OTHERS"
+              },
+              {
+                  "source": 1,
+                  "id": "ITEM_CONDITION",
+                  "name": "Condición del ítem",
+                  "value_id": "2230284",
+                  "value_name": "Nuevo",
+                  "value_struct": null,
+                  "attribute_group_id": "OTHERS",
+                  "attribute_group_name": "Otros"
+              },
+              {
+                  "attribute_group_name": "Otros",
+                  "source": 1,
+                  "id": "LINE",
+                  "name": "Línea",
+                  "value_id": "95565",
+                  "value_name": "MacBook Air",
+                  "value_struct": null,
+                  "attribute_group_id": "OTHERS"
+              },
+              {
+                  "attribute_group_id": "OTHERS",
+                  "attribute_group_name": "Otros",
+                  "source": 3376461333454861,
+                  "id": "MODEL",
+                  "name": "Modelo",
+                  "value_id": null,
+                  "value_name": "MQD32LL/A",
+                  "value_struct": null
+              }
+          ],
+          "original_price": null,
+          "category_id": "MLA9951",
+          "official_store_id": null,
+          "catalog_product_id": "MLA6282586",
+          "tags": [
+              "good_quality_picture",
+              "good_quality_thumbnail",
+              "loyalty_discount_eligible",
+              "brand_verified",
+              "immediate_payment",
+              "cart_eligible"
+          ]
+      }
+  ],
+  "secondary_results": [],
+  "related_results": [],
+  "sort": {
+      "id": "relevance",
+      "name": "Más relevantes"
+  },
+  "available_sorts": [
+      {
+          "id": "price_asc",
+          "name": "Menor precio"
+      },
+      {
+          "id": "price_desc",
+          "name": "Mayor precio"
+      }
+  ],
+  "filters": [
+  ],
+  "available_filters": [
+      {
+          "id": "discount",
+          "name": "Descuentos",
+          "type": "range",
+          "values": [
+              {
+                  "id": "10-100",
+                  "name": "Desde 10% off",
+                  "results": 2
+              }
+          ]
+      },
+      {
+          "id": "state",
+          "name": "Ubicación",
+          "type": "text",
+          "values": [
+              {
+                  "id": "TUxBUENBUGw3M2E1",
+                  "name": "Capital Federal",
+                  "results": 1847
+              },
+              {
+                  "id": "TUxBUEdSQWU4ZDkz",
+                  "name": "Bs.As. G.B.A. Norte",
+                  "results": 387
+              },
+              {
+                  "id": "TUxBUEdSQXJlMDNm",
+                  "name": "Bs.As. G.B.A. Sur",
+                  "results": 248
+              },
+              {
+                  "id": "TUxBUEdSQWVmNTVm",
+                  "name": "Bs.As. G.B.A. Oeste",
+                  "results": 202
+              },
+              {
+                  "id": "TUxBUENPUmFkZGIw",
+                  "name": "Córdoba",
+                  "results": 138
+              },
+              {
+                  "id": "TUxBUFNBTmU5Nzk2",
+                  "name": "Santa Fe",
+                  "results": 107
+              },
+              {
+                  "id": "TUxBUFpPTmFpbnRl",
+                  "name": "Buenos Aires Interior",
+                  "results": 100
+              },
+              {
+                  "id": "TUxBUENPU2ExMmFkMw",
+                  "name": "Bs.As. Costa Atlántica",
+                  "results": 64
+              },
+              {
+                  "id": "TUxBUE1FTmE5OWQ4",
+                  "name": "Mendoza",
+                  "results": 47
+              },
+              {
+                  "id": "TUxBUEVOVHMzNTdm",
+                  "name": "Entre Ríos",
+                  "results": 31
+              },
+              {
+                  "id": "TUxBUE5FVW4xMzMzNQ",
+                  "name": "Neuquén",
+                  "results": 22
+              },
+              {
+                  "id": "TUxBUFRVQ244NmM3",
+                  "name": "Tucumán",
+                  "results": 19
+              },
+              {
+                  "id": "TUxBUENPUnM5MjI0",
+                  "name": "Corrientes",
+                  "results": 15
+              },
+              {
+                  "id": "TUxBUFNBTGFjMTJi",
+                  "name": "Salta",
+                  "results": 14
+              },
+              {
+                  "id": "TUxBUENIVXQxNDM1MQ",
+                  "name": "Chubut",
+                  "results": 12
+              },
+              {
+                  "id": "TUxBUE1JU3MzNjIx",
+                  "name": "Misiones",
+                  "results": 10
+              },
+              {
+                  "id": "TUxBUExBWmE1OWMy",
+                  "name": "La Pampa",
+                  "results": 10
+              },
+              {
+                  "id": "TUxBUFLNT29iZmZm",
+                  "name": "Río Negro",
+                  "results": 10
+              },
+              {
+                  "id": "TUxBUEpVSnk3YmUz",
+                  "name": "Jujuy",
+                  "results": 9
+              },
+              {
+                  "id": "TUxBUENIQW8xMTNhOA",
+                  "name": "Chaco",
+                  "results": 6
+              },
+              {
+                  "id": "TUxBUFNBTm9lOTlk",
+                  "name": "Santiago del Estero",
+                  "results": 6
+              },
+              {
+                  "id": "TUxBUEZPUmE1OTk5",
+                  "name": "Formosa",
+                  "results": 4
+              },
+              {
+                  "id": "TUxBUFNBTm5lYjU4",
+                  "name": "San Juan",
+                  "results": 4
+              },
+              {
+                  "id": "TUxBUFNBTno3ZmY5",
+                  "name": "Santa Cruz",
+                  "results": 3
+              },
+              {
+                  "id": "TUxBUFNBTnM0ZTcz",
+                  "name": "San Luis",
+                  "results": 2
+              },
+              {
+                  "id": "TUxBUENBVGFiY2Fm",
+                  "name": "Catamarca",
+                  "results": 1
+              },
+              {
+                  "id": "TUxBUExBWmEyNzY0",
+                  "name": "La Rioja",
+                  "results": 1
+              }
+          ]
+      },
+      {
+          "id": "price",
+          "name": "Precio",
+          "type": "range",
+          "values": [
+              {
+                  "id": "*-30000.0",
+                  "name": "Hasta $ 30.000",
+                  "results": 955
+              },
+              {
+                  "id": "30000.0-65000.0",
+                  "name": "$30.000 a $65.000",
+                  "results": 1289
+              },
+              {
+                  "id": "65000.0-*",
+                  "name": "Más de $65.000",
+                  "results": 1190
+              }
+          ]
+      },
+      {
+          "id": "accepts_mercadopago",
+          "name": "Filtro por MercadoPago",
+          "type": "boolean",
+          "values": [
+              {
+                  "id": "yes",
+                  "name": "Con MercadoPago",
+                  "results": 3434
+              }
+          ]
+      },
+      {
+          "id": "installments",
+          "name": "Pago",
+          "type": "text",
+          "values": [
+              {
+                  "id": "yes",
+                  "name": "En cuotas",
+                  "results": 3391
+              },
+              {
+                  "id": "no_interest",
+                  "name": "Sin interés",
+                  "results": 384
+              }
+          ]
+      },
+      {
+          "id": "shipping",
+          "name": "Tipo de entrega",
+          "type": "text",
+          "values": [
+              {
+                  "id": "mercadoenvios",
+                  "name": "Con envío",
+                  "results": 3133
+              }
+          ]
+      },
+      {
+          "id": "power_seller",
+          "name": "Filtro por calidad de vendedores",
+          "type": "boolean",
+          "values": [
+              {
+                  "id": "yes",
+                  "name": "Mejores vendedores",
+                  "results": 162
+              }
+          ]
+      },
+      {
+          "id": "since",
+          "name": "Filtro por fecha de comienzo",
+          "type": "text",
+          "values": [
+              {
+                  "id": "today",
+                  "name": "Publicados hoy",
+                  "results": 59
+              }
+          ]
+      },
+      {
+          "id": "until",
+          "name": "Filtro por fecha de finalización",
+          "type": "text",
+          "values": [
+              {
+                  "id": "today",
+                  "name": "Finalizan hoy",
+                  "results": 17
+              }
+          ]
+      },
+      {
+          "id": "has_video",
+          "name": "Filtro por publicaciones con video",
+          "type": "boolean",
+          "values": [
+              {
+                  "id": "yes",
+                  "name": "Publicaciones con video",
+                  "results": 187
+              }
+          ]
+      },
+      {
+          "id": "has_pictures",
+          "name": "Filtro por publicaciones con imágenes",
+          "type": "boolean",
+          "values": [
+              {
+                  "id": "yes",
+                  "name": "Con fotos",
+                  "results": 3430
+              }
+          ]
+      },
+      {
+          "id": "shipping_cost",
+          "name": "Costo de envío",
+          "type": "text",
+          "values": [
+              {
+                  "id": "free",
+                  "name": "Gratis",
+                  "results": 1599
+              }
+          ]
+      },
+      {
+          "id": "DISPLAY_SIZE",
+          "name": "Tamaño de la pantalla",
+          "type": "range",
+          "values": [
+              {
+                  "id": "(*-15\")",
+                  "name": "Menos de 15 \"",
+                  "results": 2331
+              },
+              {
+                  "id": "[15\"-15.394\")",
+                  "name": "15 a 15,29 \"",
+                  "results": 552
+              },
+              {
+                  "id": "[15.394\"-15.984\")",
+                  "name": "15,39 a 15,88 \"",
+                  "results": 54
+              },
+              {
+                  "id": "[15.984\"-*)",
+                  "name": "15,98 \" o más",
+                  "results": 61
+              }
+          ]
+      },
+      {
+          "id": "ITEM_CONDITION",
+          "name": "Condición",
+          "type": "STRING",
+          "values": [
+              {
+                  "id": "2230581",
+                  "name": "Usado",
+                  "results": 2605
+              },
+              {
+                  "id": "2230284",
+                  "name": "Nuevo",
+                  "results": 815
+              },
+              {
+                  "id": "2230582",
+                  "name": "Reacondicionado",
+                  "results": 2
+              }
+          ]
+      },
+      {
+          "id": "LINE",
+          "name": "Línea",
+          "type": "STRING",
+          "values": [
+              {
+                  "id": "95588",
+                  "name": "MacBook Pro",
+                  "results": 1991
+              },
+              {
+                  "id": "95565",
+                  "name": "MacBook Air",
+                  "results": 1031
+              },
+              {
+                  "id": "41930",
+                  "name": "MacBook",
+                  "results": 184
+              },
+              {
+                  "id": "16105",
+                  "name": "Pro",
+                  "results": 7
+              },
+              {
+                  "id": "2508865",
+                  "name": "iBook",
+                  "results": 3
+              },
+              {
+                  "id": "3753641",
+                  "name": "PowerBook G4",
+                  "results": 2
+              },
+              {
+                  "id": "884",
+                  "name": "Premium",
+                  "results": 1
+              },
+              {
+                  "id": "2508866",
+                  "name": "PowerBook",
+                  "results": 1
+              }
+          ]
+      },
+      {
+          "id": "PROCESSOR",
+          "name": "Procesador",
+          "type": "STRING",
+          "values": [
+              {
+                  "id": "98864",
+                  "name": "Intel Core i5",
+                  "results": 1708
+              },
+              {
+                  "id": "98882",
+                  "name": "Intel Core i7",
+                  "results": 665
+              },
+              {
+                  "id": "99026",
+                  "name": "Intel Core 2 Duo",
+                  "results": 264
+              },
+              {
+                  "id": "98961",
+                  "name": "Intel Core Duo",
+                  "results": 42
+              },
+              {
+                  "id": "7337371",
+                  "name": "Intel Core m3",
+                  "results": 13
+              },
+              {
+                  "id": "98901",
+                  "name": "Intel Core i3",
+                  "results": 5
+              },
+              {
+                  "id": "7639633",
+                  "name": "Intel Core M",
+                  "results": 3
+              },
+              {
+                  "id": "366213",
+                  "name": "PowerPC 750cx (G3)",
+                  "results": 2
+              },
+              {
+                  "id": "313922",
+                  "name": "Intel Pentium M-Centrino",
+                  "results": 2
+              },
+              {
+                  "id": "313912",
+                  "name": "Intel Pentium / MMX",
+                  "results": 2
+              },
+              {
+                  "id": "313920",
+                  "name": "Intel Atom N270",
+                  "results": 1
+              },
+              {
+                  "id": "2381768",
+                  "name": "Intel Core M-5Y70",
+                  "results": 1
+              },
+              {
+                  "id": "2193268",
+                  "name": "Intel Core i5-6360U",
+                  "results": 1
+              },
+              {
+                  "id": "176569",
+                  "name": "Intel Core",
+                  "results": 1
+              },
+              {
+                  "id": "102027",
+                  "name": "Intel Atom",
+                  "results": 1
+              }
+          ]
+      },
+      {
+          "id": "RAM_MEMORY",
+          "name": "Memoria RAM",
+          "type": "range",
+          "values": [
+              {
+                  "id": "(*-8GB)",
+                  "name": "Menos de 8 GB",
+                  "results": 745
+              },
+              {
+                  "id": "[8GB-16GB)",
+                  "name": "8 a 15 GB",
+                  "results": 1605
+              },
+              {
+                  "id": "[16GB-*)",
+                  "name": "16 GB o más",
+                  "results": 460
+              }
+          ]
+      },
+      {
+          "id": "WITH_TOUCH_SCREEN",
+          "name": "Otras características",
+          "type": "boolean",
+          "values": [
+              {
+                  "id": "242085",
+                  "name": "Con pantalla táctil",
+                  "results": 165
+              }
+          ]
+      }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "id": "MLA729695037",
+  "site_id": "MLA",
+  "title": "Computadora Macbook Air 13 - Usada Como Nueva - Core I7 256gb 8gb Mod 2014  Ifans",
+  "subtitle": null,
+  "seller_id": 12900268,
+  "category_id": "MLA9951",
+  "official_store_id": null,
+  "price": 54999.99,
+  "base_price": 54999.99,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 14,
+  "available_quantity": 1,
+  "sold_quantity": 0,
+  "sale_terms": [
+      {
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantía",
+          "value_id": "2230280",
+          "value_name": "Garantía del vendedor",
+          "value_struct": null
+      },
+      {
+          "id": "WARRANTY_TIME",
+          "name": "Tiempo de garantía",
+          "value_id": null,
+          "value_name": "90 días",
+          "value_struct": {
+              "number": 90,
+              "unit": "días"
+          }
+      }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2018-06-07T03:21:52.000Z",
+  "stop_time": "2038-06-01T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-729695037-computadora-macbook-air-13-usada-como-nueva-core-i7-256gb-8gb-mod-2014-ifans-_JM",
+  "thumbnail": "http://mla-s2-p.mlstatic.com/933268-MLA31593846925_072019-I.jpg",
+  "secure_thumbnail": "https://mla-s2-p.mlstatic.com/933268-MLA31593846925_072019-I.jpg",
+  "pictures": [
+      {
+          "id": "933268-MLA31593846925_072019",
+          "url": "http://mla-s2-p.mlstatic.com/933268-MLA31593846925_072019-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/933268-MLA31593846925_072019-O.jpg",
+          "size": "500x286",
+          "max_size": "818x469",
+          "quality": ""
+      },
+      {
+          "id": "859341-MLA31566190186_072019",
+          "url": "http://mla-s2-p.mlstatic.com/859341-MLA31566190186_072019-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/859341-MLA31566190186_072019-O.jpg",
+          "size": "500x235",
+          "max_size": "1200x566",
+          "quality": ""
+      },
+      {
+          "id": "681157-MLA31566184742_072019",
+          "url": "http://mla-s2-p.mlstatic.com/681157-MLA31566184742_072019-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/681157-MLA31566184742_072019-O.jpg",
+          "size": "500x235",
+          "max_size": "1200x566",
+          "quality": ""
+      },
+      {
+          "id": "885116-MLA31566167922_072019",
+          "url": "http://mla-s2-p.mlstatic.com/885116-MLA31566167922_072019-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/885116-MLA31566167922_072019-O.jpg",
+          "size": "500x235",
+          "max_size": "1200x566",
+          "quality": ""
+      },
+      {
+          "id": "960418-MLA31566184244_072019",
+          "url": "http://mla-s2-p.mlstatic.com/960418-MLA31566184244_072019-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/960418-MLA31566184244_072019-O.jpg",
+          "size": "500x235",
+          "max_size": "1200x566",
+          "quality": ""
+      },
+      {
+          "id": "828099-MLA31566167921_072019",
+          "url": "http://mla-s2-p.mlstatic.com/828099-MLA31566167921_072019-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/828099-MLA31566167921_072019-O.jpg",
+          "size": "500x235",
+          "max_size": "1200x566",
+          "quality": ""
+      },
+      {
+          "id": "637340-MLA31566206528_072019",
+          "url": "http://mla-s2-p.mlstatic.com/637340-MLA31566206528_072019-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/637340-MLA31566206528_072019-O.jpg",
+          "size": "500x235",
+          "max_size": "1200x566",
+          "quality": ""
+      },
+      {
+          "id": "997106-MLA31566184745_072019",
+          "url": "http://mla-s2-p.mlstatic.com/997106-MLA31566184745_072019-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/997106-MLA31566184745_072019-O.jpg",
+          "size": "500x235",
+          "max_size": "1200x566",
+          "quality": ""
+      },
+      {
+          "id": "606617-MLA31593848856_072019",
+          "url": "http://mla-s2-p.mlstatic.com/606617-MLA31593848856_072019-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/606617-MLA31593848856_072019-O.jpg",
+          "size": "500x456",
+          "max_size": "1004x916",
+          "quality": ""
+      }
+  ],
+  "video_id": null,
+  "descriptions": [
+      {
+          "id": "MLA729695037-1703277987"
+      }
+  ],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+      "mode": "me2",
+      "free_methods": [
+          {
+              "id": 73328,
+              "rule": {
+                  "default": true,
+                  "free_mode": "country",
+                  "free_shipping_flag": true,
+                  "value": null
+              }
+          }
+      ],
+      "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+      ],
+      "dimensions": null,
+      "local_pick_up": true,
+      "free_shipping": true,
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+      "city": {
+          "name": "CABA"
+      },
+      "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+      },
+      "country": {
+          "id": "AR",
+          "name": "Argentina"
+      },
+      "search_location": {
+          "neighborhood": {
+              "id": "TUxBQkJFTDcyNTJa",
+              "name": "Belgrano"
+          },
+          "city": {
+              "id": "TUxBQ0NBUGZlZG1sYQ",
+              "name": "Capital Federal"
+          },
+          "state": {
+              "id": "TUxBUENBUGw3M2E1",
+              "name": "Capital Federal"
+          }
+      },
+      "latitude": -34.560436,
+      "longitude": -58.45697,
+      "id": 148487895
+  },
+  "seller_contact": null,
+  "location": {},
+  "geolocation": {
+      "latitude": -34.560436,
+      "longitude": -58.45697
+  },
+  "coverage_areas": [],
+  "attributes": [
+      {
+          "id": "BLUETOOTH",
+          "name": "Con Bluetooth",
+          "value_id": null,
+          "value_name": "No",
+          "value_struct": null,
+          "attribute_group_id": "",
+          "attribute_group_name": ""
+      },
+      {
+          "id": "HEADPHONE_FORMAT",
+          "name": "Formato",
+          "value_id": "182346",
+          "value_name": "Ear-Buds",
+          "value_struct": null,
+          "attribute_group_id": "",
+          "attribute_group_name": ""
+      },
+      {
+          "id": "INCLUDES_MICROPHONE",
+          "name": "Incluye micrófono",
+          "value_id": "242085",
+          "value_name": "Sí",
+          "value_struct": null,
+          "attribute_group_id": "",
+          "attribute_group_name": ""
+      },
+      {
+          "id": "WITH_WIRELESS_CAPABILITY",
+          "name": "Con recepción inalámbrica",
+          "value_id": "242084",
+          "value_name": "No",
+          "value_struct": null,
+          "attribute_group_id": "",
+          "attribute_group_name": ""
+      },
+      {
+          "id": "ALPHANUMERIC_MODEL",
+          "name": "Modelo alfanumérico",
+          "value_id": "-1",
+          "value_name": null,
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "9344",
+          "value_name": "Apple",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "DATA_STORAGE_TYPE",
+          "name": "Tipo de almacenamiento de datos",
+          "value_id": "365877",
+          "value_name": "SSD",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "DISPLAY_RESOLUTION",
+          "name": "Resolución de la pantalla",
+          "value_id": null,
+          "value_name": "13¨",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "DISPLAY_SIZE",
+          "name": "Tamaño de la pantalla",
+          "value_id": null,
+          "value_name": "13 \"",
+          "value_struct": {
+              "number": 13,
+              "unit": "\""
+          },
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "GPU",
+          "name": "GPU",
+          "value_id": null,
+          "value_name": "Core i7",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "HARD_DRIVE_DATA_STORAGE_CAPACITY",
+          "name": "Capacidad del disco rígido",
+          "value_id": null,
+          "value_name": "256 GB",
+          "value_struct": {
+              "number": 256,
+              "unit": "GB"
+          },
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "IS_GAMER",
+          "name": "Es gamer",
+          "value_id": "242084",
+          "value_name": "No",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "IS_ULTRABOOK",
+          "name": "Es ultrabook",
+          "value_id": "242085",
+          "value_name": "Sí",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "LINE",
+          "name": "Línea",
+          "value_id": "95565",
+          "value_name": "MacBook Air",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "MacBook Air",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "NOTEBOOK_BATTERY_TYPE",
+          "name": "Tipo de batería",
+          "value_id": null,
+          "value_name": "N/a",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "OPTICAL_DRIVES",
+          "name": "Unidades ópticas",
+          "value_id": null,
+          "value_name": "No",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "OS_EDITION",
+          "name": "Edición del sistema operativo",
+          "value_id": null,
+          "value_name": "10",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "OS_NAME",
+          "name": "Nombre del sistema operativo",
+          "value_id": "4078105",
+          "value_name": "Mac OS",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "OS_VERSION",
+          "name": "Versión del sistema operativo",
+          "value_id": "4743197",
+          "value_name": "10",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "PROCESSOR",
+          "name": "Procesador",
+          "value_id": "98882",
+          "value_name": "Intel Core i7",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "RAM_MEMORY",
+          "name": "Memoria RAM",
+          "value_id": "98881",
+          "value_name": "8 GB",
+          "value_struct": {
+              "number": 8,
+              "unit": "GB"
+          },
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "SSD_DATA_STORAGE_CAPACITY",
+          "name": "Capacidad del SSD",
+          "value_id": "6724316",
+          "value_name": "256 GB",
+          "value_struct": {
+              "number": 256,
+              "unit": "GB"
+          },
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "VIDEO_MEMORY",
+          "name": "Memoria de video",
+          "value_id": null,
+          "value_name": "8 GB",
+          "value_struct": {
+              "number": 8,
+              "unit": "GB"
+          },
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "VIDEO_MEMORY_TYPE",
+          "name": "Tipo de memoria de video",
+          "value_id": null,
+          "value_name": "N/a",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "WITH_BLUETOOTH",
+          "name": "Con Bluetooth",
+          "value_id": "242084",
+          "value_name": "No",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      },
+      {
+          "id": "WITH_TOUCH_SCREEN",
+          "name": "Con pantalla táctil",
+          "value_id": "242084",
+          "value_name": "No",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+      }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [
+      {
+          "id": 40890348632,
+          "price": 54999.99,
+          "attribute_combinations": [
+              {
+                  "id": "COLOR",
+                  "name": "Color",
+                  "value_id": "283165",
+                  "value_name": "Gris",
+                  "value_struct": null
+              }
+          ],
+          "available_quantity": 1,
+          "sold_quantity": 0,
+          "sale_terms": [],
+          "picture_ids": [
+              "933268-MLA31593846925_072019",
+              "859341-MLA31566190186_072019",
+              "681157-MLA31566184742_072019",
+              "885116-MLA31566167922_072019",
+              "960418-MLA31566184244_072019",
+              "828099-MLA31566167921_072019",
+              "637340-MLA31566206528_072019",
+              "997106-MLA31566184745_072019",
+              "606617-MLA31593848856_072019"
+          ],
+          "catalog_product_id": null
+      }
+  ],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+      "brand_verified",
+      "extended_warranty_eligible",
+      "good_quality_picture",
+      "good_quality_thumbnail",
+      "immediate_payment",
+      "cart_eligible"
+  ],
+  "warranty": "Garantía del vendedor: 90 días",
+  "catalog_product_id": null,
+  "domain_id": "MLA-NOTEBOOKS",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2018-06-07T03:21:52.000Z",
+  "last_updated": "2019-09-04T18:43:29.000Z",
+  "health": 0.9,
+  "catalog_listing": false
+}
