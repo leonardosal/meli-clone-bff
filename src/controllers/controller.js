@@ -20,6 +20,7 @@ async function findItemById (req, res) {
     const result = parseResultItemDetail(data);
     res.send(result);
   } catch (err) {
+    console.log(err.message)
     res.status(500).send({ 
       message: 'Erro ao executar a operação.' 
     })

@@ -12,11 +12,11 @@ async function find (query) {
 }
 
 async function findById (id) {
-  const resProduct = await axios.get(`/items/${id}`);
+  const resProduct = await axios.get(`${baseURL}/items/${id}`);
   const resDescription = await axios.get(`${baseURL}/items/${id}/description`);
 
   return {
-    ...resProduct.data,
+    ...resProduct.data, 
     description: {
       ...resDescription.data
     }

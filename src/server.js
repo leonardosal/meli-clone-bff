@@ -8,7 +8,7 @@ const { PORT } = require('./config/config');
 const { 
   findItemById, 
   findItems 
-} = require('./controller')
+} = require('./controllers/controller')
 
 app.use(express.json())
 app.use(cors())
