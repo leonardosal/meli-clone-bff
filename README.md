@@ -4,6 +4,10 @@
 [![codecov](https://codecov.io/gh/leonardosal/challenge-be-meli/branch/master/graph/badge.svg)](https://codecov.io/gh/leonardosal/challenge-be-meli)
 [![License](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 
+##  Aplicação rodando no Heroku
+
+[Meli BFF ](https://challenge-meli.herokuapp.com)
+
 ## Frontend da aplicação
 
 [Meli Frontend ](https://github.com/leonardosal/challenge-fe-meli)
