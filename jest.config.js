@@ -8,7 +8,8 @@ module.exports = {
   collectCoverageFrom: [
     "src/**",
     "!<rootDir>/node_modules/",
-    "!<rootDir>/src/config.js",
+    "!<rootDir>/src/config/config.js",
+    "!<rootDir>/src/controllers/controller.js",
     "!<rootDir>/src/server.js"
 ],
   coverageDirectory: "__tests__/coverage",

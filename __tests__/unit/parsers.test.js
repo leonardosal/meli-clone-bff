@@ -1,14 +1,11 @@
-const { parseResultItemDetail, parseResultItems } = require('../../src/parsers.js');
+const { parseResultItemDetail, parseResultItems } = require('../../src/parsers/parsers.js');
 const ItemsResult = require('../resources/itemsResult.json')
 const ItemDetailResult = require('../resources/itemDetailResult.json')
+const ItemDescriptionResult = require('../resources/itemDescriptionResult.json')
 const ItemsResultEmptyFilters = require('../resources/itemsResultEmptyFilters.json')
 
 describe('Parsers Test', () => {
   it('should be returns a correct parsed result item detail object', () => {
-    const description = {
-      plain_text: 'Lorem ipsu'
-    };
-
     const expected = {
         author: {
           name: 'Leonardo',
@@ -30,7 +27,7 @@ describe('Parsers Test', () => {
         }
       };
 
-    const result = parseResultItemDetail(ItemDetailResult, description);
+    const result = parseResultItemDetail({ ...ItemDetailResult, description: ItemDescriptionResult });
 
     expect(expected).toEqual(result);
   })

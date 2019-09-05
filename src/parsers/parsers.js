@@ -49,14 +49,14 @@ function parseResultItems(data) {
   }
 }
 
-function parseResultItemDetail(item, description) {
+function parseResultItemDetail(item) {
   return {
     author: getAuthor(),
     item: {
       ...parseItem(item),
       picture: item.pictures[0].secure_url,
       sold_quantity: item.sold_quantity,
-      description: description.plain_text
+      description: item.description.plain_text
     }
   }
 }
