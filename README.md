@@ -7,6 +7,7 @@
 ##  Aplicação rodando no Heroku
 
 [Meli BFF ](https://challenge-meli.herokuapp.com)
+(Ao acessar pela primeira vez pode demorar alguns segundos por conta das máquinas free do heroku)
 
 ## Frontend da aplicação
 
