@@ -7,8 +7,8 @@
 ##  Aplicação rodando no Heroku
 
 [Meli BFF ](https://challenge-meli.herokuapp.com)
-(Ao acessar pela primeira vez pode demorar alguns segundos por conta das máquinas free do heroku)
-(Nesse link da raiz do servidor tem um swagger para testar as requisições)
+* Ao acessar pela primeira vez pode demorar alguns segundos por conta das máquinas free do heroku
+* Nesse link da raiz do servidor tem um swagger para testar as requisições
 
 ## Frontend da aplicação
 
